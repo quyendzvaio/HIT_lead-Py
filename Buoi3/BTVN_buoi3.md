@@ -1,4 +1,4 @@
-# 🧩 BỘ BÀI TẬP PYTHON – LIST, STRING, SET, TUPLE (TỪ TRUNG BÌNH → KHÓ)
+# BỘ BÀI TẬP PYTHON – LIST, STRING, SET, TUPLE
 
 
 ---
@@ -26,7 +26,7 @@ numbers = [2, 3, 2, -4, 3, 5]
 4. Sắp xếp theo abs: [-4, 2, 3, 5] 
 ```
 
-##  Xử lý chuỗi phức tạp
+##  Bai2: Xử lý chuỗi phức tạp
 ### Đề bài:
 
 Viết chương trình nhận vào một chuỗi văn bản bất kỳ (có thể chứa dấu, chữ hoa/thường, ký tự đặc biệt).
@@ -69,7 +69,7 @@ Nhập vào một đoạn văn bản.
 
 6. In ra danh sách các từ được sắp xếp theo độ dài giảm dần, nhưng không dùng sort().
 
-## Bài 4 – Kết hợp Set, Tuple, List và String (độ khó cao)
+## Bài 4 – Kết hợp Set, Tuple, List và String
 ### Đề bài:
 
 Cho một đoạn văn bản chứa danh sách sinh viên và điểm, ví dụ:
