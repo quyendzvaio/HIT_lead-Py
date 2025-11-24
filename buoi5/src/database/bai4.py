@@ -23,7 +23,7 @@ for num in ls:
     if num not in current_sub:
         current_sub.append(num)
     else:
-        idx = current_sub.index(num)
+        idx = current_sub.index(num)   #0,1,2,3,4,5,1,7,8,9
         current_sub = current_sub[idx+1:]
         current_sub.append(num)
 
